@@ -1,0 +1,11 @@
+.autocomplete-list {
+    max-height: 50px;
+    overflow-y: auto;
+    background-color: rgba(225, 230, 231, 0.34);
+    border-radius: 5px;
+    padding: 0.1em;
+}
+.autocomplet-parent{
+    display: flex;
+    flex-direction: column;
+}

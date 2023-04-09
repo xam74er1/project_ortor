@@ -1,0 +1,18 @@
+.fullBoard{
+    position: absolute;
+    z-index: 1 ;
+    min-width:10%;
+    max-height: 60vh;
+    width:30vw;
+
+}
+
+.mainPan{
+    overflow-x:hidden;
+    max-height:60vh;
+    width:10vw;
+}
+
+.bandeau{
+
+}

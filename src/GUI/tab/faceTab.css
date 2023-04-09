@@ -1,0 +1,67 @@
+.validate-button {
+    font-weight: 500;
+    color: #1F2937;
+    background-color: #FFFFFF;
+    border-radius: 9999px;
+    border-width: 1px;
+    border-color: #E5E7EB;
+    outline: none;
+padding: 0.5em;
+}
+
+.validate-button:hover {
+    background-color: #F3F4F6;
+    color: #3B82F6;
+}
+
+.validate-button:focus {
+    z-index: 10;
+    outline-width: 4px;
+    outline-color: #E5E7EB;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+.validate-button.dark:focus {
+    outline-color: #FBBF24;
+    box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.5);
+}
+
+.validate-button.dark {
+    background-color: #1F2937;
+    color: #9CA3AF;
+    border-color: #4B5563;
+}
+
+.validate-button.dark:hover {
+    background-color: #4B5563;
+    color: #FFFFFF;
+}
+
+
+.alert {
+    background-color: #E6FFFA;
+    border-top: 4px solid #38B2AC;
+    border-radius: 0 0 0.25rem 0.25rem;
+    color: #2D3748;
+    padding: 0.3rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+
+
+.alert .icon {
+    padding-top: 0.1rem;
+    padding-right: 0.25rem;
+}
+
+.alert .icon svg {
+    height: 0.7em;
+    width: 0.7em;
+    fill: #38B2AC;
+}
+
+.alert .text .title {
+    font-weight: 700;
+    font-size: 0.7em;
+}
+
