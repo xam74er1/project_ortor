@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project_ortor/static/css/main.eac5eae3.css",
+    "main.js": "/project_ortor/static/js/main.9deccf64.js",
+    "index.html": "/project_ortor/index.html",
+    "main.eac5eae3.css.map": "/project_ortor/static/css/main.eac5eae3.css.map",
+    "main.9deccf64.js.map": "/project_ortor/static/js/main.9deccf64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eac5eae3.css",
+    "static/js/main.9deccf64.js"
+  ]
+}
